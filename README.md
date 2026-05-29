@@ -1,4 +1,6 @@
-![alt text](Company_Logo.png)
+<p align="center">
+  <img src="Company_Logo.png" alt="Company Logo" width="180">
+</p>
 
 ---
 
