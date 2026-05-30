@@ -10,7 +10,7 @@
 
 # Industry Scenario
 
-You are working as a Junior Software Developer in the IT Department of a banking company called SecureBank Pvt. Ltd.
+You are working as a Junior Software Developer in the IT Department of a banking company called FinCoreBank Pvt. Ltd.
 The bank wants to modernize its old banking software system. Your development team follows Agile + Sprint methodology.
 
 ---
