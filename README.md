@@ -40,18 +40,33 @@ The management wants a Banking System that can:
 ---
 
 ```
-This project will help students learn:
-- SQL
-- Database Design
-- MySQL
-- Python + MySQL Connectivity
-- CRUD Operations
-- OOP Concepts
-- Exception Handling
-- Transactions
-- Agile Sprint Workflow
-- Backend Project Development
+Project Repository: FinCore Banking API
+
+Project Modules
+Module	Description
+- SQ1	Setup Banking Database and Explore Table Structure using DDL commands, constraints, and schema validation.
+
+-SQ2	Implement Secure Banking Data Model with primary keys, foreign keys, constraints, triggers, and business rule enforcement.
+
+- SQ3	Initialize Banking Data using INSERT, UPDATE, and DELETE operations while maintaining data integrity.
+
+- SQ4	Investigate Customer Transactions through SQL queries for transaction tracking and account activity analysis.
+
+- SQ5	Develop Customer Search System with advanced filtering, sorting, and dynamic query capabilities.
+
+- SQ6	Generate Banking Summary Reports using aggregate functions such as SUM, COUNT, AVG, MIN, and MAX.
+
+- SQ7	Perform Loan Risk Analysis using Window Functions including RANK(), DENSE_RANK(), ROW_NUMBER(), and OVER().
+
+- SQ8	Create Transaction Reports using Inner Join, Left Join, Right Join, and Multi-Table Joins.
+
+- SQ9	Conduct Branch Performance Analysis using correlated and non-correlated subqueries.
+
+- SQ10	Develop Reporting Layer using SQL Views for business intelligence and management reporting.
+
 ```
+
+---
 ---
 
 ![alt text](Information_graphics.png)
