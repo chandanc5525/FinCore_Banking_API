@@ -40,10 +40,13 @@ The management wants a Banking System that can:
 ---
 
 ```
+
 Project Repository: FinCore Banking API
 
 Project Modules
+
 Module	Description
+
 - SQ1	Setup Banking Database and Explore Table Structure using DDL commands, constraints, and schema validation.
 
 -SQ2	Implement Secure Banking Data Model with primary keys, foreign keys, constraints, triggers, and business rule enforcement.
