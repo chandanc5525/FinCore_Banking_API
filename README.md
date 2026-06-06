@@ -91,10 +91,12 @@ By completing all modules, learners will gain hands-on experience in database de
 ```
 
 ---
-https://github.com/chandanc5525/FinCore_Banking_API/blob/main/SnowflakeSchema_ER_Diagram.PNG
-https://github.com/chandanc5525/FinCore_Banking_API/blob/main/StarSchema_ER_Diagram.PNG
+![alt text](SnowflakeSchema_ER_Diagram.PNG)
 
 ---
+
+![alt text](SnowflakeSchema_ER_Diagram.PNG)
+
 ---
 
 ![alt text](Information_graphics.png)
