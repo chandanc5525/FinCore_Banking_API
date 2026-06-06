@@ -41,31 +41,52 @@ The management wants a Banking System that can:
 
 ```
 
-Project Repository: FinCore Banking API
+# FinCore Banking API – Project Modules
 
-Project Modules
+## SQ1: Banking Database Setup and Schema Exploration
 
-Module	Description
+Design and initialize the Banking Database using DDL (Data Definition Language) commands. Create database objects such as tables, constraints, indexes, and relationships while validating schema structure and data integrity requirements.
 
-- SQ1	Setup Banking Database and Explore Table Structure using DDL commands, constraints, and schema validation.
+## SQ2: Secure Banking Data Model Implementation
 
-- SQ2	Implement Secure Banking Data Model with primary keys, foreign keys, constraints, triggers, and business rule enforcement.
+Develop a secure banking data model by implementing Primary Keys, Foreign Keys, Unique Constraints, Check Constraints, Triggers, and Business Rules to ensure consistency, security, and compliance across banking operations.
 
-- SQ3	Initialize Banking Data using INSERT, UPDATE, and DELETE operations while maintaining data integrity.
+## SQ3: Banking Data Initialization and Maintenance
 
-- SQ4	Investigate Customer Transactions through SQL queries for transaction tracking and account activity analysis.
+Populate the database using INSERT statements and perform UPDATE and DELETE operations while maintaining referential integrity and enforcing business constraints.
 
-- SQ5	Develop Customer Search System with advanced filtering, sorting, and dynamic query capabilities.
+## SQ4: Customer Transaction Investigation
 
-- SQ6	Generate Banking Summary Reports using aggregate functions such as SUM, COUNT, AVG, MIN, and MAX.
+Analyze customer transactions using SQL queries to track account activities, monitor transaction histories, identify spending patterns, and support audit requirements.
 
-- SQ7	Perform Loan Risk Analysis using Window Functions including RANK(), DENSE_RANK(), ROW_NUMBER(), and OVER().
+## SQ5: Customer Search and Retrieval System
 
-- SQ8	Create Transaction Reports using Inner Join, Left Join, Right Join, and Multi-Table Joins.
+Build an advanced customer search module with filtering, sorting, and dynamic query capabilities to efficiently retrieve customer and account information based on business requirements.
 
-- SQ9	Conduct Branch Performance Analysis using correlated and non-correlated subqueries.
+## SQ6: Banking Summary and Performance Reports
 
-- SQ10	Develop Reporting Layer using SQL Views for business intelligence and management reporting.
+Generate analytical banking reports using aggregate functions such as SUM(), COUNT(), AVG(), MIN(), and MAX() to derive key business insights from transactional and customer data.
+
+## SQ7: Loan Risk and Customer Ranking Analysis
+
+Perform loan risk assessment and customer ranking using SQL Window Functions including RANK(), DENSE_RANK(), ROW_NUMBER(), and OVER() to identify high-risk customers and evaluate loan portfolios.
+
+## SQ8: Transaction Reporting with SQL Joins
+
+Develop comprehensive transaction reports using INNER JOIN, LEFT JOIN, RIGHT JOIN, and Multi-Table JOIN operations to integrate and analyze data across multiple banking entities.
+
+## SQ9: Branch Performance and Comparative Analysis
+
+Evaluate branch-level performance using correlated and non-correlated subqueries to compare operational metrics, customer growth, transaction volume, and revenue generation.
+
+## SQ10: Business Intelligence Reporting Layer
+
+Create a reporting layer using SQL Views to provide reusable, secure, and business-friendly datasets for management dashboards, business intelligence, and decision-making processes.
+
+## Project Outcome
+
+By completing all modules, learners will gain hands-on experience in database design, data modeling, SQL programming, transaction analysis, reporting, business intelligence, and banking domain data management using industry-standard practices.
+
 
 ```
 
